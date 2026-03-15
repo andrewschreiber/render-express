@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render! 🚀 Deployed with the Render CLI v4.
+      Hello from Render! 🚀 Deployed with the Render CLI v5.
     </section>
   </body>
 </html>
