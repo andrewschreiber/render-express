@@ -12,7 +12,7 @@
 | Runtime | Node |
 | Auto-deploy | Yes (on push to `main`) |
 
-## How It Works
+## How It Works:
 
 ### App
 
